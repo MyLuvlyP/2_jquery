@@ -1,0 +1,23 @@
+.rect{
+    background-color:  lightpink;
+    height: 100px;
+    width: 100px;
+    position: absolute; /*포지션의 변동이 필요, 독고다이 절대값*/
+    top: 200px;
+}
+.time{
+    background-color:  lightpink;
+    height: 100px;
+    width: 100px;
+    position: absolute; /*포지션의 변동이 필요, 독고다이 절대값*/
+    top: 650px;
+}
+.typo{
+    background-color: palevioletred;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+}
+.big{
+    margin-top: 200px;
+}
